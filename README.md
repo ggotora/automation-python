@@ -7,5 +7,5 @@
 
 **2. Uploading images to web server - Using <code>requests</code> library***
 
-    - takes the jpeg images from the supplier-data/images directory  processed previously and uploads them to the web server fruit catalog.
+    - takes the jpeg images from the supplier-data/images directory  processed previously <br> and uploads them to the web server fruit catalog.
 - Checkout implementation in <code>supplier_image_upload.py</code>
